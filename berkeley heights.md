@@ -1,4 +1,4 @@
 # Berkeley Heights, NJ
-http://www.berkeleyheightstwp.com/
+* http://www.berkeleyheightstwp.com/
+* https://en.wikipedia.org/wiki/Berkeley_Heights,_New_Jersey
 
-https://en.wikipedia.org/wiki/Berkeley_Heights,_New_Jersey
