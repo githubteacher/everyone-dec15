@@ -6,3 +6,5 @@
 - Sunsets are beautiful.
 - The current temp is 54 F
 - I will not be able to visit old stompig grounds as they are now covered in houses!
+- Adding a few more lines while working in desktop.
+- 
