@@ -8,6 +8,6 @@ function test() {
 }
 ``` 
 
-This will be removed
+~~~This will be removed~~~
 
 
