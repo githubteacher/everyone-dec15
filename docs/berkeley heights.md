@@ -4,7 +4,11 @@
 
 As of 2010 census 13,183 is population
 
-~~~This will be removed~~~
+~~~This will be removed~~~  //updated line 1
 
-Added information through local editing
+Added information through local editing  //updated line 2
 
+Added line 1
+Added line 2
+Added line 3
+Added line 4
