@@ -6,5 +6,4 @@
 - Go hiking at Raven Rock if you are the outdoorsie type
 - Or just go to one of the museums in Raleigh
 - Try Cooleys for burgers and fries
-- more information
 - and a little more information
