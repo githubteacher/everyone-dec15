@@ -3,4 +3,4 @@
 - Our Sport teams suck!
 - [ ] Checklist
 - [ ] Another Checklist
-- [ ] Spelling ereoroor 
+- [ ] Spelling error fixed
