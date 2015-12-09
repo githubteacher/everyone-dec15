@@ -9,6 +9,6 @@ As of 2010 census 13,183 is population
 Added information through local editing  //updated line 2
 
 Added line 1
-Added line 4
+Added line 2
 Added line 3
-Added line 5
+Added line 4
